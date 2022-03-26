@@ -1,3 +1,7 @@
+# 6A/19090010/Ariffulah
+# 6A/19090099/Irvan Akbar Febriansyah
+
+
 from flask import Flask, request, make_response, jsonify
 from flask_restful import Resource, Api
 from flask_cors import CORS
