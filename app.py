@@ -1,8 +1,7 @@
 #Nama Kelompok :
-#1 Efendi Kisnoto   19090057
-#2 Abbror Sholakhudin 19090141
+# 6A/19090010/Ariffulah
+# 6A/19090099/Irvan Akbar Febriansyah
 
-# Kelas 6A
 
 from flask import Flask, request, make_response, jsonify
 from flask_restful import Resource, Api
